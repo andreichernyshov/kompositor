@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 12,
+    "editor.cursorStyle": "line-thin",
+    "editor.wordWrap": "bounded",
+    "editor.minimap.maxColumn": 60,
+    "editor.suggest.showStatusBar": true,
+    "files.autoGuessEncoding": true,
+    "workbench.commandPalette.preserveInput": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontWeight": "bold"
+}
